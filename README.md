@@ -1,8 +1,9 @@
-
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Adisa Rasak</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <img align='right' width='400' scr="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt='adisaduke_coding'/>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adisaduke&label=Profile%20views&color=0e75b6&style=flat" alt="adisaduke" /> </p>
